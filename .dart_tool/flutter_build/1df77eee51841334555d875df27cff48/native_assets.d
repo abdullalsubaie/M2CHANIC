@@ -1,0 +1,1 @@
+ C:\\src\\flutter\\mechanic_1_12\\mechanic\\.dart_tool\\flutter_build\\1df77eee51841334555d875df27cff48\\native_assets.yaml: 
